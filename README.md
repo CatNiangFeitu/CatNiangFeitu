@@ -27,6 +27,9 @@ EMAIL|catfeitu@qq.com|接收验证码的时候会看[doge]
 Discord|feitu#8429|通常不在
 Pixiv|█████████|不经常在线
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![image](https://user-images.githubusercontent.com/108512490/203347399-77263607-2d4c-41db-a56d-6ef53bee0207.png)
+
 原神信息
 ---
 2.5版本入的坑 不知道过了多久
