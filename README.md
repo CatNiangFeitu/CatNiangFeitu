@@ -1,16 +1,32 @@
-### Hi there 👋
+### 你好
+**欢迎来到互联网的边缘**
 
-<!--
-**CatNiangFeitu/CatNiangFeitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+我已经不记得这是哪里了…
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+这里没有阳光
+
+有的只有无尽的黑暗与寒冷…
+
+在黑暗的尽头
+
+是光明
+
+但一束光明的射入
+
+冰川深层的黑暗被人们注意
+
+「这束光便有了罪」
+
+---
+
+个人信息
+---
+联系方式|ID|备注
+-|-|-|
+QQ|3205711786|通常在线 优先使用
+EMAIL|catfeitu@qq.com|接收验证码的时候会看[doge]
+Discord|feitu#8429|通常不在
+Telegram|可莉不知道哦|等于忘了 反正也不用
+Pixiv|█████████|不经常在线
