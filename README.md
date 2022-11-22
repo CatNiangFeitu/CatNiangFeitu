@@ -56,5 +56,4 @@ Linux:会用,更偏好于CentOS
  
 ---
 「构思时大脑早已塞满，写作时却一片空白」
-  
-<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
+ 
